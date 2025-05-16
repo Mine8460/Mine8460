@@ -26,9 +26,9 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mine8460&hide_border=true&short_numbers=true&background=000000&currStreakNum=EBEBEB&stroke=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
 
-  ![Klaivert GitHub stats](https://github-readme-stats.vercel.app/api?username=klaivertt&show_icons=true&theme=highcontrast&hide_border=true&card_width=460)
+  ![Mine8460's Stats](https://github-readme-stats.vercel.app/api?username=Mine8460&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaivertt&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ ![Mine8460's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mine8460&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ---
