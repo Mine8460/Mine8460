@@ -39,13 +39,3 @@
     <li>⏳ <a href="https://www.creajeux.fr/project/lostintime/">Lost In Time</a>: end-of-year project for my preparatory year.</li>
   </ul>
 </div>
-
----
-
-<div align="center">
-  <h2>💼 Portfolio</h2>
-  <p>Explore my projects and creations in my online portfolio!</p>
-  <a href="https://klaivertt.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4e73df?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio Badge" />
-  </a>
-</div>
