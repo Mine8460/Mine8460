@@ -24,7 +24,7 @@
 <div align="center">
   <h2>🔥 GitHub Stats</h2>
   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mine8460&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mine8460&short_numbers=true&background=000000&currStreakNum=EBEBEB&stroke=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
 
   ![Klaivert GitHub stats](https://github-readme-stats.vercel.app/api?username=klaivertt&show_icons=true&theme=highcontrast&hide_border=true&card_width=460)
 
