@@ -36,6 +36,7 @@
 
 <div align="center">
   <ul align="left">    
+    <li>⏳ <a href="https://www.creajeux.fr/project/thescarletnight">Lost In Time</a>: end-of-year project for my first year.</li>
     <li>⏳ <a href="https://www.creajeux.fr/project/lostintime/">Lost In Time</a>: end-of-year project for my preparatory year.</li>
   </ul>
 </div>
